@@ -1,1 +1,1 @@
-ceci n'est pas une pipe
+ceci est une pipe!
